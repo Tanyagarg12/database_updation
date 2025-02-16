@@ -5,12 +5,12 @@
 
 ## 📂 Project Structure
 update_Package/
-│── __init__.py
-│── run_all.py
-│── data_fetcher.py
-│── file_reader.py
-│── data_updater.py
-│── cleaner_manager.py  # Ensure this matches the import
+   │── __init__.py
+   │── run_all.py
+   │── data_fetcher.py
+   │── file_reader.py
+   │── data_updater.py
+   │── cleaner_manager.py  # Ensure this matches the import
 
 
 ## 🛠️ Installation
