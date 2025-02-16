@@ -1,0 +1,13 @@
+pandas
+numpy
+sqlalchemy			 # If using database operations
+psycopg2			 # If connecting to PostgreSQL
+pymysql				 # If connecting to MySQL
+pyodbc				 # If connecting to SQL Server
+openpyxl			 # If working with Excel files
+requests			 # If making HTTP requests
+lxml				 # If parsing XML files
+beautifulsoup4		 # If web scraping is involved
+tabulate             # Formatting tables in a readable format
+csv                  # Built-in module (not needed in requirements.txt)
+setuptools           # Required for packaging
