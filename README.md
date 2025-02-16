@@ -16,7 +16,7 @@ update_Package/
 ## 🛠️ Installation
 
 1. **Clone the repository** (or download the project):
-   git clone https://github.com/your-repo/update_Package.git
+   git clone https://github.com/Tanyagarg12/database_updation.git
    cd update_Package
 
 2.**Install dependencies**:
